@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BankAndroid</string>
+    <string name="txt_nome_ususario">Olá, Júlia</string>
+    <string name="numero_conta">N°: 07521 </string>
+    <string name="saldo_conta">Saldo \n\n R$1240,00 </string>
+
+</resources>
